@@ -2,4 +2,4 @@
 
 Udit Mahajan : [Soundcloud](https://soundcloud.com/xzayoso/)
 
-<font color="red">Add student profiles here.</font>
+<span style="color:red">Add student profiles here.</span>
