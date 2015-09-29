@@ -1,5 +1,4 @@
-# Ableton Live
-## Crash course on Ableton Live
+# Ableton Live Dorkshop'15
 
  * Interface // Performance view
  * MIDI and Audio
